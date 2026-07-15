@@ -105,3 +105,15 @@ This project is for educational and automation purposes only. Use it responsibly
 ---
 
 Made with ❤️ for cloud phone automation → [android-cloud-device.com](https://www.android-cloud-device.com/)
+
+
+## About & contact
+
+Maintained alongside real-world cloud Android operations at **QTPhone** — *Global Independent IP Cloud Android Devices*: <https://www.qtphone.com/>
+
+Have questions about stealth automation or running browsers on cloud phones? Get in touch:
+
+- Website: https://www.qtphone.com/
+- WhatsApp: @along915
+- Gmail: ailong9281@gmail.com
+- Telegram: @Alongyun
