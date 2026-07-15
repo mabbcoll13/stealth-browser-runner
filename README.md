@@ -104,4 +104,4 @@ This project is for educational and automation purposes only. Use it responsibly
 
 ---
 
-Made with ❤️ for cloud phone automation → [qtphone.com](https://www.qtphone.com/)
+Made with ❤️ for cloud phone automation → [android-cloud-device.com](https://www.android-cloud-device.com/)
